@@ -1,0 +1,11 @@
+D:\projects\c#\forhomework\ForTests\bin\Debug\netcoreapp3.1\ForTests.exe
+D:\projects\c#\forhomework\ForTests\bin\Debug\netcoreapp3.1\ForTests.deps.json
+D:\projects\c#\forhomework\ForTests\bin\Debug\netcoreapp3.1\ForTests.runtimeconfig.json
+D:\projects\c#\forhomework\ForTests\bin\Debug\netcoreapp3.1\ForTests.runtimeconfig.dev.json
+D:\projects\c#\forhomework\ForTests\bin\Debug\netcoreapp3.1\ForTests.dll
+D:\projects\c#\forhomework\ForTests\bin\Debug\netcoreapp3.1\ForTests.pdb
+D:\projects\c#\forhomework\ForTests\obj\Debug\netcoreapp3.1\ForTests.csprojAssemblyReference.cache
+D:\projects\c#\forhomework\ForTests\obj\Debug\netcoreapp3.1\ForTests.AssemblyInfoInputs.cache
+D:\projects\c#\forhomework\ForTests\obj\Debug\netcoreapp3.1\ForTests.AssemblyInfo.cs
+D:\projects\c#\forhomework\ForTests\obj\Debug\netcoreapp3.1\ForTests.dll
+D:\projects\c#\forhomework\ForTests\obj\Debug\netcoreapp3.1\ForTests.pdb
